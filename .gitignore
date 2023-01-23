@@ -1,8 +1,8 @@
 /*
 /*/
 !.gitignore
+!README.md
 !/Scripts/
 /Scripts/*.meta
 /Scripts/.*
 /Scripts/*/*.meta
-
