@@ -1,0 +1,8 @@
+/*
+/*/
+!.gitignore
+!/Scripts/
+/Scripts/*.meta
+/Scripts/.*
+/Scripts/*/*.meta
+
