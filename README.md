@@ -3,5 +3,7 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/personal-ee8a6.appspot.com/o/intro_AdobeExpress.gif?alt=media&token=dd943ba4-e4ce-4372-ac6b-c14473738502">
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## Demo Dimostrativa
 > **https://youtu.be/HQJMYYNqHeY**
