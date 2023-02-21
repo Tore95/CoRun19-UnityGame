@@ -2,6 +2,7 @@
 /*/
 !.gitignore
 !README.md
+!gdd.pdf
 !/Scripts/
 /Scripts/*.meta
 /Scripts/.*
