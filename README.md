@@ -6,4 +6,5 @@ Open gdd.pdf for the complete documentation of the game (italian only)
 
 ## Video Demo:
 > **https://youtu.be/HQJMYYNqHeY**
+
 ![video demo](https://media.giphy.com/media/gOeqjlSCV1HzKQK9bj/giphy-downsized-large.gif)
